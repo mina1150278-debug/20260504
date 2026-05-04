@@ -36,7 +36,7 @@ function draw() {
   fill(0);
   textSize(20);
   textAlign(LEFT, TOP);
-  text("414730464吳昀臻", 10, 10);
+  text("414730803賴思米", 10, 10);
   pop();
 
   let vW = windowWidth * 0.5;
